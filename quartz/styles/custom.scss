@@ -1,3 +1,28 @@
 @use "./base.scss";
 
 // put your custom CSS here!
+/* obsidian-graph.css */
+
+/* Hide everything else except the Obsidian graph */
+body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    margin: 0;
+    overflow: hidden;
+    background-color: #282828; /* Background color to match the theme */
+}
+
+/* Style the SVG/HTML graph */
+#obsidian-graph {
+    width: 100%;
+    height: 100%;
+    max-width: 1200px;
+    max-height: 800px;
+}
+
+/* Hide unnecessary UI elements if any */
+header, footer, nav, .sidebar, .main-content {
+    display: none;
+}
