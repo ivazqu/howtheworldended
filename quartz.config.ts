@@ -8,7 +8,7 @@ import * as Plugin from "./quartz/plugins"
  */
 const config: QuartzConfig = {
   configuration: {
-    pageTitle: "How the world ended",
+    pageTitle: "How the world ends",
     enableSPA: true,
     enablePopovers: true,
     analytics: {
