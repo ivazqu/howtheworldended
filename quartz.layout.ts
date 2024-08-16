@@ -40,7 +40,7 @@ export const defaultContentPageLayout: PageLayout = {
         fontSize: 0.5, // what size should the node labels be?
         opacityScale: 1, // how quickly do we fade out the labels when zooming out?
         removeTags: [], // what tags to remove from the graph
-        showTags: false, // whether to show tags in the graph
+        showTags: true, // whether to show tags in the graph
       },
       globalGraph: {
         drag: true,
@@ -53,7 +53,7 @@ export const defaultContentPageLayout: PageLayout = {
         fontSize: 0.5,
         opacityScale: 1,
         removeTags: [], // what tags to remove from the graph
-        showTags: false, // whether to show tags in the graph
+        showTags: true, // whether to show tags in the graph
       },
     }),
     Component.DesktopOnly(Component.TableOfContents()),
