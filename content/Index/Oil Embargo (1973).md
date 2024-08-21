@@ -26,9 +26,7 @@ What the 73’ embargo produced was a crisis of overaccumulation. These crisis c
 
 ---
 # References
-[[The Prize, Oil]] by Daniel Yergin
-[[Brief History of Neoliberalism]] by David Harvey
-[[Three decades after the Oil Embargo]] by A. F. Alhajji
-[[Planetary Specters]] by Neel Ahuja
-[[Neoliberalism]]
-[[Imperialism]
+[[The Prize, Oil]] by Daniel Yergin,
+[[Brief History of Neoliberalism]] by David Harvey,
+[[Three decades after the Oil Embargo]] by A. F. Alhajji,
+[[Planetary Specters]] by Neel Ahuja.
