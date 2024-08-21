@@ -2,7 +2,7 @@
 
 .graph {
   & > h3 {
-    font-size: 1rem;
+    font-size: 0.75rem;
     margin: 0;
   }
 
@@ -18,11 +18,11 @@
     & > #global-graph-icon {
       color: var(--dark);
       opacity: 0.5;
-      width: 18px;
-      height: 18px;
+      width: 21px;
+      height: 21px;
       position: absolute;
-      padding: 0.2rem;
-      margin: 0.3rem;
+      padding: 0.3rem;
+      margin: 0.4rem;
       top: 0;
       right: 0;
       border-radius: 4px;
