@@ -142,7 +142,7 @@ async function renderGraph(container: string, fullSlug: FullSlug) {
     .join("line")
     .attr("class", "link")
     .attr("stroke", "var(--lightgray)")
-    .attr("stroke-width", 1)
+    .attr("stroke-width", 0.6)
 
   // svg groups
   const graphNode = svg.append("g").selectAll("g").data(graphData.nodes).enter().append("g")
@@ -240,7 +240,7 @@ async function renderGraph(container: string, fullSlug: FullSlug) {
       // highlight links
       linkNodes.transition().duration(200).attr("stroke", "var(--gray)").attr("stroke-width", 1)
 
-      const bigFont = fontSize * 1.5
+      const bigFont = fontSize * 1.2
 
       // show text for self
       const parent = this.parentNode as HTMLElement
