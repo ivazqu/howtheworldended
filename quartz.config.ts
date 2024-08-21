@@ -24,7 +24,7 @@ const config: QuartzConfig = {
       typography: {
         header: "Urbanist",
         body: "Teachers",
-        code: "IBM Plex Mono",
+        code: "DM Mono",
       },
       colors: {
         lightMode: {
