@@ -8,7 +8,7 @@ Military aid is the assistance in of either funds (cash), military equipment, or
 
 History/Uses:
 - In 1971, Israel received $3b from the U.S govt.  
-- 1974, U.S injects $12b, beginning after 1979, a sustained $3-4b 
+- 1974, U.S injects $12 billion, beginning after 1979, a sustained $3-4 billion per year
 - From 1975-1979, more than 80% of arms imports came from Israel into El Salvador. The U.S and Israel would train and engage in global intervention.
 
 
