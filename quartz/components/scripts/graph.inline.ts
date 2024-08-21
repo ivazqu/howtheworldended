@@ -43,7 +43,6 @@ async function renderGraph(container: string, fullSlug: FullSlug) {
     fontSize,
     opacityScale,
     removeTags,
-    showTags,
     focusOnHover,
   } = JSON.parse(graph.dataset["cfg"]!)
 
