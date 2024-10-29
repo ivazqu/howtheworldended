@@ -10,7 +10,7 @@ Tags: #suezcanal #tankers #oil #capitalism #globalization #military #neoliberali
 
 The 56' crisis would also add fuel to the decline of Aden, and once again in 1967 due to conflicts in the region. These closures had a profound impact, intensifying anticolonial struggles and ultimately leading to the British withdrawal from Aden by the end of 1967. 
 
- The establishment of the People\'s Democratic Republic of Yemen (PDRY) after the British departure resulted in a devastating economic collapse in Aden. A significant portion of the workforce [[Migration|migrated]] to the Gulf and East Africa, unemployment surged, and the port economy crumbled. 
+The establishment of the People\'s Democratic Republic of Yemen (PDRY) after the British departure resulted in a devastating economic collapse in Aden. A significant portion of the workforce [[Migration|migrated]] to the Gulf and East Africa, unemployment surged, and the port economy crumbled. 
  
 The canal allowed for Britain to consolidate its power in Asian countries. It also deflected trade from Egypt. The British also loaned Egypt money to construct the canal. When the payment was due the British used it as an excuse along with the Urabi revolt to occupy Egypt and secure its route through the peninsula. It was also other European powers that gained access and control as well.
 
